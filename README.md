@@ -16,11 +16,3 @@
   <div> 
   <a href="www.linkedin.com/in/wilian-vieira-a09835225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
-
-<p align="center"> 
-  Total de visitas no meu perfil 👤 <br> 
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Wilianssl/count.svg" />
- </p>
-</p>
