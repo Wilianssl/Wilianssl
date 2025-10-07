@@ -26,8 +26,7 @@
 
 <h2>I code with</h2>
 
-<div style="border: 2px solid #0A192F; padding: 16px; border-radius: 8px;">
-  <div align="center">
+<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
@@ -44,14 +43,13 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   </div>
-</div>
 
 ### 
 
 <h2>my profile</h2>
 
 <div align="center">
-  <a href="www.linkedin.com/in/wilianvieira" target="_blank">
+  <a href="htpps://www.linkedin.com/in/wilianvieira" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
